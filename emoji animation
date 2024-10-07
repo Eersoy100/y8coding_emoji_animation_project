@@ -1,0 +1,33 @@
+# Pirate Emoji Pandemonium 
+
+from os import system
+
+from time import sleep
+
+x=("🏴‍☠️")
+y=("🛥️")
+z= ("💣")
+a=("💥")
+b=("🦜")
+
+print("the pirates are attacking!")
+sleep(2.5)
+for i in range(25):
+    print(x*145)
+    sleep(0.1)
+for i in range(25):
+    print(y*218)
+    sleep(0.1)
+print("they are attacking the ship with their cannons!")
+sleep(2.5)
+for i in range(25):
+    print(z*218)
+    sleep(0.1)
+print("the ship exploded!")
+sleep(2.5)
+for i in range(25):
+    print(a*218)
+    sleep(0.1)
+for i in range(25):
+    print(b*218)
+    sleep(0.1)
