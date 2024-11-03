@@ -90,7 +90,7 @@ for i in range(25):
     sleep(0.1)
 print(a * 1560 )
 sleep(0.1)
-print("☺️", "I will save you!")
+print("😠","OH NO!")
 sleep(2)
 print("👿","NEVER", sleep(0.25), "I WILL DEFEAT YOU")
 sleep(2)
